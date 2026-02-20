@@ -1,2 +1,7 @@
-# Hi, I'm Leri
-https://www.behance.net/gallery/194042773/The-Best-Of-Gifs/modules/1111568239
+# Hi, I'm Lerin 👋
+
+Welcome to my GitHub profile.
+
+## 🎮 Game Demo
+
+<img src="demo.gif" width="500">
